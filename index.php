@@ -2,8 +2,8 @@
 require "vendor/autoload.php";
 use Abraham\TwitterOAuth\TwitterOAuth;
 
-define('CONSUMER_KEY','iVIwJjEqCzcZUo6iq7y4LGEdQ');
-define('CONSUMER_SECRET','KwE5I8xB1F2jS8ib0x0czgW3SOUHPSX1TdrQOpNMC1q1nODy5X');
+define('CONSUMER_KEY','iVIwJjEqCzcZUo6iq7y4LGEdQ1');
+define('CONSUMER_SECRET','KwE5I8xB1F2jS8ib0x0czgW3SOUHPSX1TdrQOpNMC1q1nODy5X1');
 define('TWITTER_CALLBACK','http://localhost/tweet/user.php');
 
 session_start();
